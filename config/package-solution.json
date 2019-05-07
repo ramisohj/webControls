@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "webControls",
+    "id": "7d4d5b98-cea3-4361-8e3d-5143d5c863aa",
+    "version": "1.0.0.5",
+    "skipFeatureDeployment": false,
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/webControls.sppkg"
+  }
+}
